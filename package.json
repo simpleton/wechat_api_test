@@ -1,0 +1,12 @@
+{
+  "name": "wechat_api_test",
+  "version": "0.0.0",
+  "private": true,
+  "devDependencies": {
+    "coffee-script": "~1.7.1",
+    "gulp": "^3.8.8",
+    "gulp-util": "3.0.0",
+    "gulp-coffee": "~2.2.0",
+    "run-sequence": "1.0.1"
+  }
+}
